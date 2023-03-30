@@ -1,0 +1,10 @@
+.pagination {
+    display: inline-block;
+    padding-left: 448px;
+    margin: 5px 50px;
+    border-radius: inherit;
+    /* padding-left: 1.5rem; */
+    /* padding-right: 0.625rem; */
+    font-size: 2rem;
+}
+
